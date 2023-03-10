@@ -145,6 +145,5 @@ function equalsButton() {
     operation = "";
     number1 = "";
 
-
     document.getElementById("screen").innerHTML = answers;
 }
