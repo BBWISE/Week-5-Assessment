@@ -1,0 +1,281 @@
+button {
+    border: none;
+    color: black;
+    cursor: pointer;
+    transition-duration:0.4s;
+}
+button:hover {
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+table {
+    padding: 5px;
+    margin: 7px;
+    width: 120px;
+}
+#result {
+    text-align: right;
+}
+#ac {
+    background-color: blue;
+    color: white;
+    width: 40;
+}
+#tdac {
+    background-color: blue;
+    color: white;
+    width: 40px; 
+    align-content: center;
+    text-align: center; 
+}
+
+#equal {
+    background-color: blue;
+    color: white;
+    width: 40;
+}
+#tdequal {
+    background-color: blue;
+    color: white;
+    width: 40px;  
+    align-content: center;
+    text-align: center;
+}
+#butdot {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#tddot {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#but1 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#td1 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#but0 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#td0 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#but1 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#td1 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#but2 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#td2 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#but3 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#td3 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#but4 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#td4 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#but5 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#td5 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#but6 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#td6 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#but7 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#td7 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}#but8 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#td8 {
+    background-color: skyblue;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#but9 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#td9 {
+        background-color: skyblue;
+        color: black;
+        width: 40;
+        align-content: center;
+        text-align: center;
+}
+#tdadd {
+    background-color: pink;
+    color: black;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#add {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#tdminus {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#minus {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#tdmultiply {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#multiply {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#tddivide {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#divide {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#tdmodulus {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
+#modulus {
+    background-color: pink;
+    color: white;
+    width: 40;
+    align-content: center;
+    text-align: center;
+}
