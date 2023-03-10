@@ -80,7 +80,7 @@ function acButton() {
 function percentageButton() {
     let n = document.getElementById("inputresult").value;
 
-    document.getElementById("inputresult").value = (n / 100);
+    document.getElementById("inputresult").value = (n * 100);
 }
 function divideButton() {
     let n = document.getElementById("inputresult").value;
